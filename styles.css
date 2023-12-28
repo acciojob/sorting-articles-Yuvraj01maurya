@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    #band {
+      list-style-type: none;
+      padding: 0;
+    }
